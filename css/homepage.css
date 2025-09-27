@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    color: #e50a0a;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #b80404;
+	padding: 1rem 2rem;
+}
+
+.main{
+
+}
